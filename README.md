@@ -30,17 +30,28 @@
 
 ![pic](res/builder-zh.png)
 
+### 结构性模式
 #### 适配器
-星际： :star::star::star:
+星级： :star::star::star:
 
 目录 `examples/adapter`
 
 ![pic](res/adapter-zh.png)
+#### 组合
+星级： :star::star::star:
 
-### 结构性模式
+目录 `examples/composite`
+
+![pic](res/composite.png)
 
 
 ### 行为模式
+#### 命令
+星级：:star::star::star:
+
+目录 `examples/command`
+
+![pic](res/command-zh.png)
 
 
 ## 版权声明
